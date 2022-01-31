@@ -8,6 +8,7 @@
 
 
 # Advantage of JSON
+# Mainly JSON  is used to retrieve data from SQL database and send to users in the JSON format. since it is light weight we can transfer even with very low bandwidth
 
 
 ![image](https://user-images.githubusercontent.com/80065996/151749731-a79fd4b3-f658-49c5-bcbf-7dfbd814a80e.png)
@@ -57,4 +58,4 @@
 # you can see above we created a simple project with two mobile models. in the same way amazon website is created.
 
 
-
+# above example is created with slice of objects.
